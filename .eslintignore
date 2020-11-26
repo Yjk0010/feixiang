@@ -1,0 +1,7 @@
+build/*.js
+src/assets
+public
+tests/
+node_modules/
+src/componentsGisi/orgDiagram/assets/go1.5.20.js
+src/componentsGisi/circlePack/js/d3.js
